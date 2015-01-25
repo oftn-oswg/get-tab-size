@@ -1,0 +1,22 @@
+{
+  "name": "get-tab-size",
+  "version": "0.0.0",
+  "description": "JS function to find the tab size of a document",
+  "main": "get-tab-size.js",
+  "bin": {
+    "get-tab-size": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/secrettriangle/get-tab-size.git"
+  },
+  "author": "Dan Kaplun <dan@secrettriangle.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/secrettriangle/get-tab-size/issues"
+  },
+  "homepage": "https://github.com/secrettriangle/get-tab-size"
+}
