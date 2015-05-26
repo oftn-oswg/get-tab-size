@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/secrettriangle/get-tab-size.git"
+    "url": "https://github.com/dbkaplun/get-tab-size.git"
   },
-  "author": "Dan Kaplun <dan@secrettriangle.net>",
+  "author": "Dan Kaplun <dbkaplun@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/secrettriangle/get-tab-size/issues"
+    "url": "https://github.com/dbkaplun/get-tab-size/issues"
   },
-  "homepage": "https://github.com/secrettriangle/get-tab-size"
+  "homepage": "https://github.com/dbkaplun/get-tab-size"
 }
